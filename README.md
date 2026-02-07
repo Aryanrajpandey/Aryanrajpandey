@@ -23,7 +23,7 @@ Passionate about problem solving, data-driven decisions and real-world impact.
 ## 🛠 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,react,vscode,django,postgres,tensorflow,firebase" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,react,vscode" />
 </p>
 
 ---
