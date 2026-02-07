@@ -46,6 +46,6 @@ Passionate about problem solving, data-driven decisions and real-world impact.
 ## 📬 Connect
 
 - LinkedIn: linkedin.com/in/aryan-raj-pandey  
-- Email: 24f3003299@ds.study.iitm.ac.in  
+- Email: aryanrajpandey206@gmail.com
 
 > *Relentless in learning.*
