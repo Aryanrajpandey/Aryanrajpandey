@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Aryanrajpandey/Aryanrajpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Aspiring Engineer | BS Data Science @ IIT Madras | IT @ MSIT  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Dual Degree: **B.Tech IT @ MSIT** + **BS Data Science @ IIT Madras**
+- 💻 Interested in **DSA, Data Science, Sustainability**
+- ♟ Chess | 💪 Fitness | 🌍 Geopolitics
+- 🤝 Regional Coordinator IITM – 2× Meetups Organized
+- 🧠 Member – Geek Room MSIT (Emerging Tech)
+
+---
+
+## 📊 LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+
