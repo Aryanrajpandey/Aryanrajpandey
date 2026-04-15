@@ -90,21 +90,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanrajpandey&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryanrajpandey&color=blue&style=flat-square"/>
-</p>
-
----
 
 <!-- Footer -->
 <p align="center">
