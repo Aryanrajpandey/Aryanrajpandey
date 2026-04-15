@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aryan%20Raj&fontSize=40&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/Aryanrajpandey/Aryanrajpandey/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">ARYAN RAJ</h1>
