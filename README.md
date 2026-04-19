@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center ">
   <img src="https://raw.githubusercontent.com/Aryanrajpandey/Aryanrajpandey/main/banner.png" width="100%" />
 </p> 
 <h1 align="center">ARYAN RAJ</h1>
