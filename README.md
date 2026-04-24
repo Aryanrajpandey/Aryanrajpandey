@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,react,fastapi,flask,django,flutter,git,github,azure,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,react,fastapi,git,github,azure,vercel,figma" />
 
 </p>
 
