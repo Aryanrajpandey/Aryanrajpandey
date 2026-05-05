@@ -30,8 +30,8 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
 <br/><br/>
 
 <ul>
-  <li>🧠 <b>Focus:</b> AI/ML • Agentic AI • Multi-Agent Systems • ML Engineering</li>
-  <li>⚙️ <b>Stack:</b> Python • PyTorch • LangChain • FastAPI • React</li>
+  <li>🧠 <b>Focus:</b> AI/ML •  ML Engineering</li>
+  <li>⚙️ <b>Stack:</b> Python • NumPy • LangChain • Pandas • scikit-learn</li>
   <li>🚀 <b>Currently:</b> Building scalable AI-powered applications & pipelines</li>
   <li>🤝 <b>Open to:</b> Collaborations in AI, ML & innovative tech</li>
 </ul>
