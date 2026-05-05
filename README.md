@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" width="100%" alt="Profile Banner" />
+  <img src="banner.png" width="100%" alt="Profile Banner" />
 </p>
 
 <h1 align="center">ARYAN RAJ</h1>
