@@ -57,8 +57,8 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanrajpandey&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanrajpandey&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanrajpandey&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanrajpandey&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
 <h2 align="center">🏆 GitHub Achievements 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanrajpandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=Aryanrajpandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
