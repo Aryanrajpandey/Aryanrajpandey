@@ -9,7 +9,7 @@
 <h3 align="center">Aspiring AI Engineer building Agentic Systems & Scalable ML Applications</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+ Systems;Scalable+ML+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=I+don’t+just+learn+AI.+I+build+it.;Agentic+AI+%7C+ML+Engineering;Turning+Ideas+into+Production+Systems" />
 </div>
 <br/>
 <p align="center">
